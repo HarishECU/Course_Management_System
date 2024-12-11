@@ -1,0 +1,22 @@
+.dashboard {
+    padding: 2em;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.dashboard h1 {
+    color: #3f51b5;
+}
+
+.dashboard ul {
+    list-style: none;
+    padding: 0;
+}
+
+.dashboard li {
+    background: white;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}

@@ -1,0 +1,11 @@
+{
+    "base_url": "http://localhost:3000",
+    "login_url": "/login",
+    "profile_url": "/profile",
+    "courses_url": "/courses",
+    "dashboard_url": "/dashboard",
+    "credentials": {
+        "email": "test@example.com",
+        "password": "password123"
+    }
+}

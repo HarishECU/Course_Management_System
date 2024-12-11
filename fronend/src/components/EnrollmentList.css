@@ -1,0 +1,32 @@
+.enrollment-list {
+    padding: 2em;
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.enrollment-list h1 {
+    color: #3f51b5;
+    text-align: center;
+}
+
+.enrollment-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.enrollment-list li {
+    background: #f9f9f9;
+    padding: 1em;
+    margin-bottom: 1em;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.enrollment-list li p {
+    margin: 0;
+    font-size: 1em;
+    color: #333;
+}
